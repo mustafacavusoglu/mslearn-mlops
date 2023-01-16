@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mustafacavusoglu/Desktop/workspace/mslearn-mlops/mlruns/0/9c01e7c286884166b0cfba4f58274fbe/artifacts
+end_time: 1673901371843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c01e7c286884166b0cfba4f58274fbe
+run_name: merciful-cat-161
+run_uuid: 9c01e7c286884166b0cfba4f58274fbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673901369277
+status: 3
+tags: []
+user_id: mustafacavusoglu
